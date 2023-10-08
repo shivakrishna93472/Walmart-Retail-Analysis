@@ -1,2 +1,2 @@
 # Walmart-Retail-Analysis
-Here in this project i completed dashboard using tableau. In this project i used tables and maps, donut charts and bar graphs and also various types of filters and word cloud. Here in this project special is easily we can visualize the analysis.
+Here in this project i completed dashboard Analysis using tableau. In this project i used tables and maps, donut charts and bar graphs and also various types of filters and word cloud. Here in this project special is easily we can visualize the analysis and interactive colours make attractive and I used navigation web pages in maps when we click on any city or state in the map it will directly take into the web page that contains full details of city or state
